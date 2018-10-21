@@ -86,4 +86,36 @@
   margin-bottom: 0;
 }
 
+/* ScetchFab */
+.sketchfab-embed-wrapper iframe{
+  width: 100%;
+  height: auto;
+  min-height: 480px;
+}
 
+//Ширина окна более 1920px
+@media (min-width: 1920px) {
+  .sketchfab-embed-wrapper iframe{
+   min-height: 480px;
+  }
+}
+@media (min-width: 800px) {
+  .sketchfab-embed-wrapper iframe{
+   min-height: 420px;
+  }
+}
+@media (min-width: 640px) {
+  .sketchfab-embed-wrapper iframe{
+   min-height: 380px;
+  }
+}
+@media (min-width: 440px) {
+  .sketchfab-embed-wrapper iframe{
+   min-height: 300px;
+  }
+}
+@media (min-width: 320px) {
+  .sketchfab-embed-wrapper iframe{
+   min-height: 280px;
+  }
+}
