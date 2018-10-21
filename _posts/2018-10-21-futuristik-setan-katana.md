@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Футуристичная демоническая катана
+title: Проект «Футуристичная демоническая катана»
 tags: [blender, models]
 image: futuristik_setan_katana.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Модель «Молот наследия»
+title: Проект «Молот наследия»
 tags: [blender, models]
 image: heritage_hammer.png
 ---
