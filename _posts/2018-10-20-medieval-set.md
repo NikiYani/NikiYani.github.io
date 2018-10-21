@@ -9,11 +9,9 @@ image: medieval_set.png
 <!--more-->
 
 **Текстуры для игрового движка Unity (разрешение 2048x2048):**
-1. Albedo  
-2. MetallicSmoothness
+1. AlbedoTransparency 
+2. MetallicSmoothness 
 3. Normal  
-4. AO 
-
 
 **Контент:**
 1. Anvil 
