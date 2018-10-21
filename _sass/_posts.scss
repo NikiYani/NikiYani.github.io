@@ -1,0 +1,89 @@
+// Posts and pages
+//
+// Each post is wrapped in `.post` and is used on default and post layouts. Each
+// page is wrapped in `.page` and is only used on the page layout.
+
+.page,
+.post {
+  margin-bottom: 4em;
+
+  li + li {
+    margin-top: .25rem;
+  }
+}
+
+// Blog post or page title
+.page-title,
+.post-title,
+.post-title a {
+  color: $blue-1;
+  font-family: $font-headers;
+}
+.page-title,
+.post-title {
+  margin-top: 0;
+}
+
+// Meta data line below post title
+.post-date {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: rgba($blue-1, 0.4);
+}
+
+
+// Related posts
+.related {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-top: 1px solid $blue-1;
+  border-bottom: 1px solid $blue-1;
+}
+
+.related-posts {
+  padding-left: 0;
+  list-style: none;
+
+  h3 {
+    margin-top: 0;
+  }
+
+  li {
+    small {
+      font-size: 75%;
+      color: rgba($blue-1, 0.4);
+    }
+
+    a:hover {
+      color: $blue-1;
+      text-decoration: none;
+
+      small {
+        color: inherit;
+      }
+    }
+  }
+}
+
+/* Thumbnail */
+.thumbnail-container,
+.thumbnail-container-full {
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+  margin-bottom: 1em;
+}
+
+.thumbnail-container img{
+  margin-top: -5.5%;
+  margin-bottom: -5.5%;
+}
+
+.thumbnail-container-full img{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+

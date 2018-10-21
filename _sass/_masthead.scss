@@ -1,0 +1,41 @@
+.masthead {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: $blue-1;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a:hover{
+    text-decoration: underline;
+  }
+
+  small {
+    color: $blue-2;
+    font-size: 75%;
+    font-weight: 400;
+    opacity: .5;
+  }
+
+  small:hover{
+    color: $blue-1;
+    opacity: 1;
+  }
+}
+
+.masthead-logo {
+  height: 1.2em;
+  width: auto;
+  vertical-align: text-bottom;
+  display: inline;
+  padding: 0;
+  margin: 0;
+}

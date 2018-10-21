@@ -1,0 +1,43 @@
+permalink:           "/:title"
+
+title:               NikiYani
+url:                 https://www.nikiyani.github.io
+canonical_url:       'http://www.nikiyani.github.io'
+description:         "Личный блог Никиты Янченкова о 3D-моделировании и компьютерной графике"
+paginate:            3
+baseurl:             ""
+logo:                '/public/logo.png'
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate #Деление главной на страницы
+# - jekyll-gist #Интеграция GitHub Gists
+  - jekyll-sitemap #Автоматическое построение карты сайта
+# - jekyll-seo-tag #SEO-оптимизация
+
+
+pages_list:    
+  Sitemap: '/sitemap'   
+  About: '/about'
+
+tag_page: '/sitemap'
+excerpt_separator: "<!--more-->"
+
+# About
+author:
+  email:             nekitgoldrush@yandex.ru
+  vk:                https://vk.com/hotline_dolgopa
+  sketchfab:         https://sketchfab.com/NikiYani
+
+# Social
+social:
+  name: NikiYani
+  links:
+        https://vk.com/hotline_dolgopa
+        https://sketchfab.com/NikiYani
+
+# Language
+lang: ru_RU
