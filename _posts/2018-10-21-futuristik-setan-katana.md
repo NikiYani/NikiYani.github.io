@@ -17,7 +17,7 @@ image: futuristik_setan_katana.png
 **Контент:**
 1. Katana 
 2. Glowing
- 3. Pedestal
+3. Pedestal
 
 **LODs:** <br/>
 Все модели имеют от 2 до 3 уровней детализации.
