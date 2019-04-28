@@ -1,19 +1,19 @@
 ---
 layout: post 
-title: Комплект моделей средневекового окружения
+title: Medieval set
 tags: [blender, models, set]
 image: medieval_set.png
 ---
-Комплект из 40 текстурированных 3D-моделей в средневековом стиле: от мечей и коробок до телег, стен и колодцев.
+Set of 40 textured 3D models in medieval style.
 
 <!--more-->
 
-**Текстуры для игрового движка Unity (разрешение 2048x2048):**
+**Textures for Unity:**
 1. AlbedoTransparency 
 2. MetallicSmoothness 
 3. Normal  
 
-**Контент:**
+**Content:**
 1. Anvil 
 2. Apple 
 3. Barrel
@@ -56,7 +56,7 @@ image: medieval_set.png
 40. Well 
 
 **LODs:** <br/>
-Все модели имеют от 2 до 3 уровней детализации.
+All models have lods (2-3 levels).
 
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="auto" src="https://sketchfab.com/models/a91518e8f28841c48e6b5af2c3c77962/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
