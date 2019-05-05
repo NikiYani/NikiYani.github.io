@@ -4,7 +4,7 @@ title:               NikiYani
 url:                 https://www.nikiyani.github.io
 canonical_url:       'http://www.nikiyani.github.io'
 description:         "Personal blog of Nikita Yanchenkov about 3D modeling and computer graphics"
-paginate:            3
+paginate:            7
 baseurl:             ""
 logo:                '/public/logo.png'
 
