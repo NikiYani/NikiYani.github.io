@@ -3,7 +3,7 @@ permalink:           "/:title"
 title:               NikiYani
 url:                 https://www.nikiyani.github.io
 canonical_url:       'http://www.nikiyani.github.io'
-description:         "Личный блог Никиты Янченкова о 3D-моделировании и компьютерной графике"
+description:         "Personal blog of Nikita Yanchenkov about 3D modeling and computer graphics"
 paginate:            3
 baseurl:             ""
 logo:                '/public/logo.png'
@@ -31,6 +31,11 @@ author:
   email:             nekitgoldrush@yandex.ru
   vk:                https://vk.com/hotline_dolgopa
   sketchfab:         https://sketchfab.com/NikiYani/models
+  twitter:           https://twitter.com/NikiYaniCG
+  facebook:          https://www.facebook.com/NikiYani3D
+  instagram:         https://www.instagram.com/zack_drug/
+  youtube:           https://www.youtube.com/channel/UC0vCTRWN-R9NRVrYb-0ZZVQ?view_as=subscriber
+  telegram:          https://t.me/Hotline_Dolgopa
 
 # Social
 social:
@@ -38,6 +43,10 @@ social:
   links:
         https://vk.com/hotline_dolgopa
         https://sketchfab.com/NikiYani
-
+        https://twitter.com/NikiYaniCG
+        https://www.facebook.com/NikiYani3D
+        https://www.instagram.com/zack_drug/
+        https://www.youtube.com/channel/UC0vCTRWN-R9NRVrYb-0ZZVQ?view_as=subscriber
+        https://t.me/Hotline_Dolgopa
 # Language
 lang: ru_RU
