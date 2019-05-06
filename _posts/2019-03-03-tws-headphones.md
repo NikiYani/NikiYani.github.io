@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "TWS headphones"
+title: TWS headphones
 tags: [blender, models, other]
 image: tws_headphones.png
 ---

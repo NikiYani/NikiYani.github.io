@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Demonic sci-fi katana" 
+title: Demonic sci-fi katana 
 tags: [blender, models, sci-fi]
 image: demonic_sci_fi_katana.png
 ---

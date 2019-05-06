@@ -18,10 +18,10 @@ plugins:
   - jekyll-sitemap #Автоматическое построение карты сайта
 # - jekyll-seo-tag #SEO-оптимизация
 
-
 pages_list:    
   Sitemap: '/sitemap'   
-  About: '/about'
+  About me: '/about_me'
+  Tooling: '/tooling'
 
 tag_page: '/sitemap'
 excerpt_separator: "<!--more-->"
@@ -48,5 +48,6 @@ social:
         https://www.instagram.com/zack_drug/
         https://www.youtube.com/channel/UC0vCTRWN-R9NRVrYb-0ZZVQ?view_as=subscriber
         https://t.me/Hotline_Dolgopa
+        
 # Language
 lang: ru_RU

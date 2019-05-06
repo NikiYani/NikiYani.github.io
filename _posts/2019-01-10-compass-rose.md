@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Compass rose"
+title: Compass rose
 tags: [blender, models, other]
 image: compass_rose.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Runic dagger"
+title: Runic dagger
 tags: [blender, models, medieval]
 image: runic_dagger.png
 ---

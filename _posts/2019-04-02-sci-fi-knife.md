@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Sci-fi knife"
+title: Sci-fi knife
 tags: [blender, models, sci-fi]
 image: sci_fi_knife.png
 ---

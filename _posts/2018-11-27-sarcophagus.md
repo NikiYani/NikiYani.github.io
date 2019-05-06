@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "S.A.R.C.O.P.H.A.G.U.S"
+title: S.A.R.C.O.P.H.A.G.U.S
 tags: [blender, models, sci-fi]
 image: sarcophagus.png
 ---

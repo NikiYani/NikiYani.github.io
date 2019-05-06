@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Hammer Heritage" 
+title: Hammer Heritage
 tags: [blender, models, medieval]
 image: heritage_hammer.png
 ---

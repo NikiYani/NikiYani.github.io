@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Sci-fi Grenade"
+title: Sci-fi Grenade
 tags: [blender, models, sci-fi]
 image: sci_fi_grenade.png
 ---

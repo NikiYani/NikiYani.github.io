@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "1984 Gibson Explorer "MORE BEER!""
+title: 1984 Gibson Explorer "MORE BEER!"
 tags: [blender, models, other]
 image: 1984_gibson_explorer.png
 ---

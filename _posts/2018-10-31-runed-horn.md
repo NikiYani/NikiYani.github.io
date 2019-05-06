@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Runed horn"
+title: Runed horn
 tags: [blender, models, medieval]
 image: runed_horn.png
 ---

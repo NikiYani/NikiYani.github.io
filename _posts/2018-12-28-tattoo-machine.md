@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Tattoo machine"
+title: Tattoo machine
 tags: [blender, models, other]
 image: tattoo_machine.png
 ---

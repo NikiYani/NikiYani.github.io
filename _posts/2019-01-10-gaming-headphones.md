@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Project "Gaming headphones"
+title: Gaming headphones
 tags: [blender, models, other]
 image: gaming_headphones.png
 ---
