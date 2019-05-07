@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: null
 ---
 
 ### Here you can see the stack of programs in which I work. (logos contain links)
