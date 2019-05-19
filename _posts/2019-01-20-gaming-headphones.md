@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Gaming headphones
-tags: [blender, models, other]
+tags: [3D-models, other]
 image: gaming_headphones.png
 ---
 Model of Gaming headphones.

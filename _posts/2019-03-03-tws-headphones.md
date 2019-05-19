@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: TWS headphones
-tags: [blender, models, other]
+tags: [3D-models, other]
 image: tws_headphones.png
 ---
 Model of TWS headphones.

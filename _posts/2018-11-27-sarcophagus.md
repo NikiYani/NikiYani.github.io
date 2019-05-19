@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: S.A.R.C.O.P.H.A.G.U.S
-tags: [blender, models, sci-fi]
+tags: [3D-models, sci-fi]
 image: sarcophagus.png
 ---
 Model of S.A.R.C.O.P.H.A.G.U.S.

@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Compass rose
-tags: [blender, models, other]
+tags: [3D-models, other]
 image: compass_rose.png
 ---
 Model of compass rose.

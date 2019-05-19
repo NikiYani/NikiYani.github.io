@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: 1984 Gibson Explorer "MORE BEER!"
-tags: [blender, models, other]
+tags: [3D-models, other]
 image: 1984_gibson_explorer.png
 ---
 Model of Gibson Explorer.

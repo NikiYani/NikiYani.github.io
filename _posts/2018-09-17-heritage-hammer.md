@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Hammer Heritage
-tags: [blender, models, medieval]
+tags: [3D-models, medieval]
 image: heritage_hammer.png
 ---
 Model of a large runic hammer.

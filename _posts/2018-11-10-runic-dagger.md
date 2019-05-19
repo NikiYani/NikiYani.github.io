@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Runic dagger
-tags: [blender, models, medieval]
+tags: [3D-models, medieval]
 image: runic_dagger.png
 ---
 Model of ancient dagger.

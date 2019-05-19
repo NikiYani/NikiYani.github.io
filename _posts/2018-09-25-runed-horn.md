@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Runed horn
-tags: [blender, models, medieval]
+tags: [3D-models, medieval]
 image: runed_horn.png
 ---
 Model of ancient horn.

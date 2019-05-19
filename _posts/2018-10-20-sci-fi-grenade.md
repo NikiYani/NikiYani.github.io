@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Sci-fi Grenade
-tags: [blender, models, sci-fi]
+tags: [3D-models, sci-fi]
 image: sci_fi_grenade.png
 ---
 Model of sci-fi grenade.

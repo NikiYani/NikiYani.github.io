@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Demonic sci-fi katana 
-tags: [blender, models, sci-fi]
+tags: [3D-models, sci-fi]
 image: demonic_sci_fi_katana.png
 ---
 Demonic katana model with animation.

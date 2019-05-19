@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Medieval pack (PBR)
-tags: [blender, models, medieval, set]
+tags: [3D-models, medieval, set]
 image: medieval_set.png
 ---
 This pack contains 40 game-ready models including swords, hammers, shields and more. 

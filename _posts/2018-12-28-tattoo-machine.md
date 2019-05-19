@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Tattoo machine
-tags: [blender, models, other]
+tags: [3D-models, other]
 image: tattoo_machine.png
 ---
 Model of tattoo machine.

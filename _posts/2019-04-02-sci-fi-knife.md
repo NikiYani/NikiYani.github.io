@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Sci-fi knife
-tags: [blender, models, sci-fi]
+tags: [3D-models, sci-fi]
 image: sci_fi_knife.png
 ---
 Model of sci-fi knife.
