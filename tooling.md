@@ -87,6 +87,22 @@ title:
 </tr>
 </table>
 
+#### Video editor and post prodaction:
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.adobe.com/ru/products/premiere.html" target="_blank"> <img  src="public/img/premiere_pro.png" alt="Premiere_Pro" style="width: 11%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+<td>
+<a href="https://www.adobe.com/ru/products/aftereffects.html" target="_blank"> <img  src="public/img/after_effects.png" alt="After_effects" style="width: 11%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+</tr>
+</table>
+
 #### Text editors:
 
 <table>
