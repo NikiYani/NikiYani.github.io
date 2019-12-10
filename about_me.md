@@ -37,7 +37,7 @@ Follow the links below to see my portfolio:<br>
 
 1. Artstation <a href="https://www.artstation.com/nikiyani" target="_blank"> https://www.artstation.com/nikiyani </a> 
 
-2. Behance <a href="https://www.behance.net/nikiyani" target="_blank"> https://www.behance.net/nekitgoldr6467 </a> 
+2. Behance <a href="https://www.behance.net/nikiyani" target="_blank"> https://www.behance.net/nikiyani </a> 
 
 ---
 
