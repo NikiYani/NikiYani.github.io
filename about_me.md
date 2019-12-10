@@ -35,25 +35,25 @@ By past it is possible to contact me by phone: +8-(962)-958-72-12 (Russia)
 
 Follow the links below to see my portfolio:<br>
 
-1. Artstation <a href="https://www.artstation.com/nikiyani" target="_blank"> https://www.artstation.com/nikiyani </a> 
+1. <a href="https://www.artstation.com/nikiyani" target="_blank"> https://www.artstation.com/nikiyani </a> 
 
-2. Behance <a href="https://www.behance.net/nikiyani" target="_blank"> https://www.behance.net/nikiyani </a> 
+2. <a href="https://www.behance.net/nikiyani" target="_blank"> https://www.behance.net/nikiyani </a> 
 
 ---
 
 You can also visit my stores on these sites:<br>
 
-1. Sketchfab: <a href="https://sketchfab.com/NikiYani" target="_blank"> https://sketchfab.com/NikiYani </a> 
+1. <a href="https://sketchfab.com/NikiYani" target="_blank"> https://sketchfab.com/NikiYani </a> 
 
-2. CGtrader: <a href="https://www.cgtrader.com/nikiyani" target="_blank"> https://www.cgtrader.com/nikiyani </a> 
+2. <a href="https://www.cgtrader.com/nikiyani" target="_blank"> https://www.cgtrader.com/nikiyani </a> 
 
-3. Turbosquid: <a href="https://www.turbosquid.com/Search/Artists/NikiYani" target="_blank"> https://www.turbosquid.com/Search/Artists/NikiYani </a> 
+3. <a href="https://www.turbosquid.com/Search/Artists/NikiYani" target="_blank"> https://www.turbosquid.com/Search/Artists/NikiYani </a> 
 
-4. Unity Asset Store: <a href="https://assetstore.unity.com/publishers/37272" target="_blank"> https://assetstore.unity.com/publishers/37272 </a>
+4. <a href="https://assetstore.unity.com/publishers/37272" target="_blank"> https://assetstore.unity.com/publishers/37272 </a>
 
-5. 3dexport: <a href="https://ru.3dexport.com/nikiyani" target="_blank"> https://ru.3dexport.com/nikiyani </a> 
+5. <a href="https://ru.3dexport.com/nikiyani" target="_blank"> https://ru.3dexport.com/nikiyani </a> 
 
-6. Cubebrush: <a href="https://cubebrush.co/nikiyani" target="_blank"> https://cubebrush.co/nikiyani </a> 
+6. <a href="https://cubebrush.co/nikiyani" target="_blank"> https://cubebrush.co/nikiyani </a> 
 
 
 
