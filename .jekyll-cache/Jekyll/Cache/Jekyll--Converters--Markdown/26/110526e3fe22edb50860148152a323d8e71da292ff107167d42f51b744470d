@@ -1,8 +1,23 @@
-I"�<p><img src="public/img/face.png" alt="Фото автора блога" style="width: 45%; height: auto; margin: 0 auto;" /></p>
+I"�	<p><img src="public/img/face.png" alt="Фото автора блога" style="width: 45%; height: auto; margin: 0 auto;" /></p>
 
-<h3 id="nikita-yanchenkov">Nikita Yanchenkov</h3>
+<h3 id="my-resume">My resume</h3>
 
-<p>I live in Moscow, study at MSTU “STANKIN” on specialty “Informatics and computer engineering”, in my spare time I am engaged in 3D-modeling.</p>
+<p>Name: Nikita Yanchenkov</p>
+
+<p>Location: Moscow / Russian Federation</p>
+
+<p>Specialization: 3D Artist, Hard-surface</p>
+
+<p>Education:</p>
+
+<ol>
+  <li>
+    <p>Bachelor - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2016 - 2020]</p>
+  </li>
+  <li>
+    <p>Master - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2020 - 2022]</p>
+  </li>
+</ol>
 
 <p>You can contact me in the social network or write to the mail:</p>
 <h1 style="text-align: center;">
@@ -19,7 +34,7 @@
 
 <p>My telegram account: @Hotline_Dolgopa</p>
 
-<p>By past it is possible to contact me by phone: +8-(962)-958-72-12 (Russia)</p>
+<p>By past it is possible to contact me by phone: +8-(962)-958-72-12 (Russian Federation)</p>
 
 <hr />
 
