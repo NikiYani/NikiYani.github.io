@@ -1,10 +1,10 @@
 ---
 layout: post 
-title: Sci-fi pistols
-tags: [3D-models, sci-fi]
-image: Sci_fi_pistols.png
+title: Helmet with horns
+tags: [3D-models, post-apocalyptic]
+image: Helmet_with_horns.png
 ---
-Model of sci-fi pistol.
+Model of helmet with horns.
 All texture sets (Unity, Unreal Engine, PBR) are also available. 
 All models have lods (2-3 levels).
 
@@ -21,7 +21,7 @@ You can learn more about this work by clicking on the links below: <br/>
 -->
 
 	1.
-	<a href="https://www.cgtrader.com/3d-models/military/gun/sci-fi-pistols-vol-pack" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
+	<a href="https://www.cgtrader.com/3d-models/character/clothing/helmet-with-horns-8e2e6cbd-3fe8-4583-827b-175fa9b49ec4" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 
 <!--	
 	4.
