@@ -161,6 +161,10 @@
 <lastmod>2019-12-10T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/heater-sword</loc>
+<lastmod>2019-12-27T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/helmet-with-horns</loc>
 <lastmod>2020-01-08T00:00:00+03:00</lastmod>
 </url>
@@ -169,6 +173,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/offtop</loc>
 </url>
 <url>
 <loc>http://localhost:4000/sitemap</loc>
