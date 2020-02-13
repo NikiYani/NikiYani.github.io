@@ -169,6 +169,10 @@
 <lastmod>2020-01-08T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/gumbai-fighting-fans</loc>
+<lastmod>2020-02-13T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about_me</loc>
 </url>
 <url>
@@ -197,5 +201,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page6/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page7/</loc>
 </url>
 </urlset>

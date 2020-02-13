@@ -2,7 +2,7 @@
 layout: post 
 title: Helmet with horns
 tags: [3D-models, post-apocalyptic]
-image: Helmet_with_horns.png
+image: helmet_with_horns.png
 ---
 Model of helmet with horns.
 All texture sets (Unity, Unreal Engine, PBR) are also available. 
@@ -16,11 +16,12 @@ You can learn more about this work by clicking on the links below: <br/>
 <!--
 	1.
     <a href="https://www.artstation.com/artwork/1nB3wq" target="_blank" style="font-weight: bold; color: #1CAAD9;">Artstation</a><br/>
-	2.
-	<a href="https://www.behance.net/gallery/77963711/Sci-fi-knife" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
 -->
 
 	1.
+	<a href="https://www.behance.net/gallery/92191911/Helmet-with-horns" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
+
+	2.
 	<a href="https://www.cgtrader.com/3d-models/character/clothing/helmet-with-horns-8e2e6cbd-3fe8-4583-827b-175fa9b49ec4" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 
 <!--	

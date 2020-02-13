@@ -2,7 +2,7 @@
 layout: post 
 title: Normal map kit 3 Tile edition
 tags: [textures, set]
-image: NMK_3.png
+image: nmk_3.png
 ---
 This set of normal maps will help you with texturing as well as creating a variety of interesting surfaces. 
 Each texture is seamless and has an alpha option for importing, for example, into Substance Painter. 

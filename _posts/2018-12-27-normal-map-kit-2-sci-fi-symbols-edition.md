@@ -2,7 +2,7 @@
 layout: post 
 title: Normal map kit 2 Sci-fi symbols edition
 tags: [textures, set]
-image: NMK_2.png
+image: nmk_2.png
 ---
 This set of normal maps will help you with texturing as well as creating a variety of interesting surfaces. 
 Each texture is seamless and has an alpha option for importing, for example, into Substance Painter. 

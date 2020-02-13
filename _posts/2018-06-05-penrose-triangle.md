@@ -2,7 +2,7 @@
 layout: post 
 title: Penrose triangle
 tags: [2D-arts]
-image: Penrose_Triangle.png
+image: penrose_triangle.png
 ---
 
 <!--more-->

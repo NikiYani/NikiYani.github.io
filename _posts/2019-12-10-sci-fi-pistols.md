@@ -2,7 +2,7 @@
 layout: post 
 title: Sci-fi pistols
 tags: [3D-models, sci-fi]
-image: Sci_fi_pistols.png
+image: sci_fi_pistols.png
 ---
 Model of sci-fi pistol.
 All texture sets (Unity, Unreal Engine, PBR) are also available. 
@@ -16,11 +16,12 @@ You can learn more about this work by clicking on the links below: <br/>
 <!--
 	1.
     <a href="https://www.artstation.com/artwork/1nB3wq" target="_blank" style="font-weight: bold; color: #1CAAD9;">Artstation</a><br/>
-	2.
-	<a href="https://www.behance.net/gallery/77963711/Sci-fi-knife" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
 -->
 
 	1.
+	<a href="https://www.behance.net/gallery/92191765/Sci-fi-pistols" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
+
+	2.
 	<a href="https://www.cgtrader.com/3d-models/military/gun/sci-fi-pistols-vol-pack" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 
 <!--	
