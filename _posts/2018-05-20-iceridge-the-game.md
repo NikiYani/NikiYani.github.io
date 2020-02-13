@@ -2,7 +2,7 @@
 layout: post 
 title: IceRidge The Game
 tags: [2D-arts]
-image: iceridge_the_game.png
+image: IceRidge_The_Game.png
 ---
 
 <!--more-->

@@ -2,7 +2,7 @@
 layout: post 
 title: Infinity
 tags: [2D-arts]
-image: infinity_sign.png
+image: Infinity_sign.png
 ---
 
 <!--more-->

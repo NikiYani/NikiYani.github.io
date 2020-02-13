@@ -2,7 +2,7 @@
 layout: post 
 title: Helmet with horns
 tags: [3D-models, post-apocalyptic]
-image: helmet_with_horns.png
+image: Helmet_with_horns.png
 ---
 Model of helmet with horns.
 All texture sets (Unity, Unreal Engine, PBR) are also available. 

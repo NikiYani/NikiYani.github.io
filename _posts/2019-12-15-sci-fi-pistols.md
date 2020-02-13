@@ -2,7 +2,7 @@
 layout: post 
 title: Sci-fi pistols
 tags: [3D-models, sci-fi]
-image: sci_fi_pistols.png
+image: Sci_fi_pistols.png
 ---
 Model of sci-fi pistol.
 All texture sets (Unity, Unreal Engine, PBR) are also available. 

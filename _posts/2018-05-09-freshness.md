@@ -2,7 +2,7 @@
 layout: post 
 title: Freshness
 tags: [2D-arts]
-image: frashness.png
+image: Frashness.png
 ---
 
 <!--more-->

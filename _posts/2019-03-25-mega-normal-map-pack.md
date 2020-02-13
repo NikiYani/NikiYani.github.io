@@ -2,7 +2,7 @@
 layout: post 
 title: MEGA Normal map pack
 tags: [textures, set]
-image: nmk_4.png
+image: NMK_4.png
 ---
 This set of normal maps will help you with texturing as well as creating a variety of interesting surfaces. 
 Each texture is seamless and has an alpha option for importing, for example, into Substance Painter. 
