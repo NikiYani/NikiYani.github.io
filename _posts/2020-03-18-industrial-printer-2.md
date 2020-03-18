@@ -1,8 +1,8 @@
 ---
 layout: post 
-title: Industrial printer (lowpoly / three blocks)
+title: Industrial printer (midpoly / one block)
 tags: [3D-models, other]
-image: Industrial_printer.png
+image: Industrial_printer_2.png
 ---
 Model of industrial printer.
 All texture sets (Unity, Unreal Engine, PBR) are also available. 
@@ -19,10 +19,10 @@ You can learn more about this work by clicking on the links below: <br/>
 -->
 	
 	1.
-	<a href="https://www.behance.net/gallery/93472353/Industrial-printer?" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
+	<a href="https://www.behance.net/gallery/93936637/Industrial-printer-%28midpoly-one-block%29" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
 
 	2.
-	<a href="https://www.cgtrader.com/gallery/project/industrial-printer" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
+	<a href="https://www.cgtrader.com/gallery/project/industrial-printer-midpoly-one-block" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 
 <!--	
 	4.
