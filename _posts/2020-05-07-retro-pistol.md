@@ -1,10 +1,10 @@
 ---
 layout: post 
-title: Sci-fi medkit
+title: Retro pistol
 tags: [3D-models, sci-fi]
-image: sci_fi_medkit.png
+image: retro_pistol.png
 ---
-Model of sci-fi medkit.
+Model of retro pistol.
 All texture sets (Unity, Unreal Engine, PBR) are also available. 
 All models have lods (2-3 levels).
 
@@ -19,10 +19,10 @@ You can learn more about this work by clicking on the links below: <br/>
 -->
 	
 	1.
-	<a href="https://www.behance.net/gallery/95628313/Sci-fi-medkit" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
+	<a href="https://www.behance.net/gallery/96694297/Retro-pistol" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
 
 	2.
-	<a href="https://www.cgtrader.com/3d-models/military/other/sci-fi-medkit" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
+	<a href="https://www.cgtrader.com/3d-models/military/gun/retro-pistol" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 
 <!--	
 	4.
