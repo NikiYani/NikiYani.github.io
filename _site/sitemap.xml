@@ -197,6 +197,10 @@
 <lastmod>2020-05-30T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/children-bicycle</loc>
+<lastmod>2020-06-06T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about_me</loc>
 </url>
 <url>
@@ -228,5 +232,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page7/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page8/</loc>
 </url>
 </urlset>
