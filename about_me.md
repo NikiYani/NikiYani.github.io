@@ -89,6 +89,8 @@ You can also visit my stores on these sites:<br>
 
 6. <a href="https://cubebrush.co/nikiyani" target="_blank"> https://cubebrush.co/nikiyani </a> 
 
+7. <a href="https://flippednormals.com/creator/nikiyani/" target="_blank"> https://flippednormals.com/creator/nikiyani/ </a> 
+
 
 
 
