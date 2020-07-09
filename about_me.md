@@ -54,6 +54,7 @@ You can contact me in the social network or write to the mail:
 	<a href="{{ site.author.vk }}" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a>		
 	<a href="{{ site.author.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>	
 	<a href="{{ site.author.facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+	<a href="{{ site.author.instagram }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 </h1>
 
 <h1>
