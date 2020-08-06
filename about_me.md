@@ -27,7 +27,7 @@ Education:
 
 2. Master - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2020 - 2022].
 
-Abilitys / Skills:
+Abilities / Skills:
 
 1. Hard-surface lowpoly modeling props, weapons.
 
