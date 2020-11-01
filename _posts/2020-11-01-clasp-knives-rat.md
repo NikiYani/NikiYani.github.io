@@ -1,10 +1,10 @@
 ---
 layout: post 
-title: Clasp knives
+title: Clasp knives RAT
 tags: [3D-models, other]
-image: clasp_knives.png
+image: clasp_knives_rat.png
 ---
-Models of clasp knives.
+Models of clasp knives RAT.
 All texture sets (Unity, Unreal Engine, PBR) are also available. 
 All models have lods (2-3 levels).
 
@@ -19,10 +19,10 @@ You can learn more about this work by clicking on the links below: <br/>
 -->
 	
 	1.
-	<a href="https://www.behance.net/gallery/106783045/Clasp-knives-vol-pack" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
+	<a href="https://www.behance.net/gallery/107067673/Clasp-knives-rat-vol-pack" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
 
 	2.
-	<a href="https://www.cgtrader.com/3d-models/military/melee/clasp-knives-vol-pack" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
+	<a href="https://www.cgtrader.com/3d-models/military/melee/clasp-knives-rat-vol-pack" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 
 <!--	
 	4.
