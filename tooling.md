@@ -10,17 +10,37 @@ title:
 
 ---
 
+#### IDE:
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.qt.io/" target="_blank"> <img  src="public/img/Qt.png" alt="Qt" style="width: 15%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+</tr>
+</table>
+
+#### DBMS:
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.postgresql.org/" target="_blank"> <img  src="public/img/postgreSQL.png" alt="Qt" style="width: 15%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+</tr>
+</table>
+
 #### Hard-surface modeling programs:
 
 <table>
 <tr>
 
 <td>
-<a href="https://www.blender.org/download/"> <img  src="public/img/Blender_1.png" alt="Blender3D" style="width: 60%; height: auto; margin: 0 auto;"/> </a> 
-</td>
-
-<td>
-<a href="https://www.autodesk.ru/products/3ds-max/overview"> <img  src="public/img/3ds_max.png" alt="3ds Max" style="width: 60%; height: auto; margin: 0 auto;"/> </a>
+<a href="https://www.blender.org/download/"> <img  src="public/img/Blender_1.png" alt="Blender3D" style="width: 35%; height: auto; margin: 0 auto;"/> </a> 
 </td>
 
 </tr>
@@ -105,11 +125,7 @@ title:
 <tr>
 
 <td>
-<a href="https://www.adobe.com/ru/products/premiere.html" target="_blank"> <img  src="public/img/premiere_pro.png" alt="Premiere_Pro" style="width: 25%; height: auto; margin: 0 auto;"/> </a>
-</td>
-
-<td>
-<a href="https://www.adobe.com/ru/products/aftereffects.html" target="_blank"> <img  src="public/img/after_effects.png" alt="After_effects" style="width: 25%; height: auto; margin: 0 auto;"/> </a>
+<a href="https://www.adobe.com/ru/products/premiere.html" target="_blank"> <img  src="public/img/premiere_pro.png" alt="Premiere_Pro" style="width: 13%; height: auto; margin: 0 auto;"/> </a>
 </td>
 
 </tr>
@@ -130,7 +146,6 @@ title:
 
 </tr>
 </table>
-
 
 #### Game engines:
 

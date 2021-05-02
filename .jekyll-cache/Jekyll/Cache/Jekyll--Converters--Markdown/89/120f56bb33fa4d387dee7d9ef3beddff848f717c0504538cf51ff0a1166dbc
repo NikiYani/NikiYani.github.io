@@ -1,4 +1,4 @@
-I"û<p><img src="public/img/tooling.png" alt="Tooling" style="width: 25%; height: auto; margin: 0 auto;" /></p>
+I"*<p><img src="public/img/tooling.png" alt="Tooling" style="width: 25%; height: auto; margin: 0 auto;" /></p>
 
 <h4 id="here-you-can-see-the-stack-of-programs-in-which-i-work">Here you can see the stack of programs in which I work.</h4>
 <h4 id="logos-contain-links">(logos contain links)</h4>
@@ -12,10 +12,6 @@
 
 <td>
 <a href="https://www.blender.org/download/"> <img src="public/img/Blender_1.png" alt="Blender3D" style="width: 60%; height: auto; margin: 0 auto;" /> </a> 
-</td>
-
-<td>
-<a href="https://www.autodesk.ru/products/3ds-max/overview"> <img src="public/img/3ds_max.png" alt="3ds Max" style="width: 60%; height: auto; margin: 0 auto;" /> </a>
 </td>
 
 </tr>
@@ -102,10 +98,6 @@
 <a href="https://www.adobe.com/ru/products/premiere.html" target="_blank"> <img src="public/img/premiere_pro.png" alt="Premiere_Pro" style="width: 25%; height: auto; margin: 0 auto;" /> </a>
 </td>
 
-<td>
-<a href="https://www.adobe.com/ru/products/aftereffects.html" target="_blank"> <img src="public/img/after_effects.png" alt="After_effects" style="width: 25%; height: auto; margin: 0 auto;" /> </a>
-</td>
-
 </tr>
 </table>
 
@@ -120,6 +112,30 @@
 
 <td>
 <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="public/img/notepad.png" alt="Notepad++" style="width: 40%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="ide">IDE:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.qt.io/" target="_blank"> <img src="public/img/Qt.png" alt="Qt" style="width: 40%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="dbms">DBMS:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="public/img/postgreSQL.png" alt="Qt" style="width: 40%; height: auto; margin: 0 auto;" /> </a>
 </td>
 
 </tr>
