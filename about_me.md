@@ -15,31 +15,38 @@ title:
 
 Name: Nikita Yanchenkov.
 
-Age: 22 years.
+Age: 23 years.
 
 Location: Moscow / Russian Federation.
 
-Specialization: 3D Artist, Hard-surface.
+Specialization: Programmer, 3D Artist (Hard-surface), gamedev.
 
 Education: 
 
 1. Bachelor - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2016 - 2020].
-
 2. Master - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2020 - 2022].
 
 Abilities / Skills:
 
-1. Hard-surface lowpoly modeling props, weapons.
+1. Programming
 
-2. Understanding standard game pipelines: High and lowpoly modeling, sculpting, baking and texturing. 
+1.1. Creation of various kinds of applications with a graphical interface.
 
-3. Knowledge of general artistic techniques: color, forms, composition, light and shadow.
+1.2. Database skills.
 
-4. Rendering and postprocessing.
+2. 3D graphics
 
-5. The minimum required knowledge in popular game engines (Unity, Unreal Engine).
+2.1. Hard-surface lowpoly modeling props, weapons.
 
-6. Knowledge in the field of the gaming industry, modern trends and development vectors.
+2.2. Understanding standard game pipelines: High and lowpoly modeling, sculpting, baking and texturing.
+ 
+2.3. Knowledge of general artistic techniques: color, forms, composition, light and shadow.
+
+2.4. Rendering and postprocessing.
+
+2.5. The minimum required knowledge in popular game engines (Unity, Unreal Engine).
+
+2.6. Knowledge in the field of the gaming industry, modern trends and development vectors.
 
 P.S. In the section "Tooling" you can see the knowledge in software.
 
