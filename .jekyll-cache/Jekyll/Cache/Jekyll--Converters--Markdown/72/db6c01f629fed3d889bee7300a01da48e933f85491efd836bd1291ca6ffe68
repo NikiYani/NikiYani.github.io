@@ -1,0 +1,159 @@
+I"þ<p><img src="public/img/tooling.png" alt="Tooling" style="width: 25%; height: auto; margin: 0 auto;" /></p>
+
+<h4 id="here-you-can-see-the-stack-of-programs-in-which-i-work">Here you can see the stack of programs in which I work.</h4>
+<h4 id="logos-contain-links">(logos contain links)</h4>
+
+<hr />
+
+<h4 id="ide">IDE:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.qt.io/" target="_blank"> <img src="public/img/Qt.png" alt="Qt" style="width: 15%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="dbms">DBMS:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="public/img/postgreSQL.png" alt="Qt" style="width: 15%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="hard-surface-modeling">Hard-surface modeling:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.blender.org/download/"> <img src="public/img/Blender_1.png" alt="Blender3D" style="width: 35%; height: auto; margin: 0 auto;" /> </a> 
+</td>
+
+</tr>
+</table>
+
+<h4 id="uv-editor">UV editor:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.uvlayout.com/" target="_blank"> <img src="public/img/UVLayout.png" alt="UVLayout" style="width: 18%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="texturing">Texturing:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.allegorithmic.com/products/substance-painter" target="_blank"> <img src="public/img/substance_painter.png" alt="Substance Painter" style="width: 65%; height: auto; margin: 0 auto;" /> </a> 
+</td>
+
+<td>
+<a href="https://www.allegorithmic.com/products/substance-designer" target="_blank"> <img src="public/img/substance_designer.png" alt="Substance Designer" style="width: 60%; height: auto; margin: 0 auto;" /> </a> 
+</td>
+
+<td>
+<a href="http://www.crazybump.com/" target="_blank"> <img src="public/img/crazybump.png" alt="CrazyBump" style="width: 60%; height: auto; margin: 0 auto;" /> </a> 
+</td>
+
+</tr>
+</table>
+
+<h4 id="render">Render:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://marmoset.co/toolbag/" target="_blank"> <img src="public/img/marmoset_toolbag.png" alt="Marmoset Toolbag" style="width: 40%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="raster-editors">Raster editors:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.gimp.org/" target="_blank"> <img src="public/img/GIMP.png" alt="GIMP" style="width: 25%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+<td>
+<a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> <img src="public/img/photoshop.png" alt="Photoshop" style="width: 25%; height: auto; margin: 0 auto;" /> </a> 
+</td>
+
+</tr>
+</table>
+
+<h4 id="vector-editor">Vector editor:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.adobe.com/ru/products/illustrator.html" target="_blank"> <img src="public/img/illustrator.png" alt="Illustrator" style="width: 13%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="video-editor-and-post-prodaction">Video editor and post prodaction:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.adobe.com/ru/products/premiere.html" target="_blank"> <img src="public/img/premiere_pro.png" alt="Premiere_Pro" style="width: 13%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="text-editors">Text editors:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.sublimetext.com/" target="_blank"> <img src="public/img/subline_text_3.png" alt="Subline Text 3" style="width: 40%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+<td>
+<a href="https://notepad-plus-plus.org/" target="_blank"> <img src="public/img/notepad.png" alt="Notepad++" style="width: 40%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+</tr>
+</table>
+
+<h4 id="game-engines">Game engines:</h4>
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.unrealengine.com/en-US/feed?sessionInvalidated=true" target="_blank"> <img src="public/img/unreal_engine.png" alt="Unreal Engine" style="width: 40%; height: auto; margin: 0 auto;" /> </a>
+</td>
+
+<td>
+<a href="https://unity.com/" target="_blank"> <img src="public/img/unity.png" alt="Unity" style="width: 40%; height: auto; margin: 0 auto;" /> </a> 
+</td>
+
+</tr>
+</table>
+:ET

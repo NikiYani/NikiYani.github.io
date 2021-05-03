@@ -34,7 +34,7 @@ title:
 </tr>
 </table>
 
-#### Hard-surface modeling programs:
+#### Hard-surface modeling:
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ title:
 </tr>
 </table>
 
-#### Programs for texturing:
+#### Texturing:
 
 <table>
 <tr>
@@ -119,7 +119,7 @@ title:
 </tr>
 </table>
 
-#### Video editor and post prodaction:
+#### Video editor:
 
 <table>
 <tr>

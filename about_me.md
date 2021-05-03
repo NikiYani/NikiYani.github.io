@@ -23,36 +23,34 @@ Specialization: Programmer, 3D Artist (Hard-surface), gamedev.
 
 Education: 
 
-1. Bachelor - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2016 - 2020].
-2. Master - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2020 - 2022].
+- Bachelor - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2016 - 2020].
+- Master - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2020 - 2022].
 
-Abilities / Skills:
+Programming skills:
 
-1. Programming
+- Creation of various kinds of applications with a graphical interface.
 
-1.1. Creation of various kinds of applications with a graphical interface.
+- Database skills.
 
-1.2. Database skills.
+3D graphics skills:
 
-2. 3D graphics
+- Hard-surface lowpoly modeling props, weapons.
 
-2.1. Hard-surface lowpoly modeling props, weapons.
-
-2.2. Understanding standard game pipelines: High and lowpoly modeling, sculpting, baking and texturing.
+- Understanding standard game pipelines: High and lowpoly modeling, sculpting, baking and texturing.
  
-2.3. Knowledge of general artistic techniques: color, forms, composition, light and shadow.
+- Knowledge of general artistic techniques: color, forms, composition, light and shadow.
 
-2.4. Rendering and postprocessing.
+- Rendering and postprocessing.
 
-2.5. The minimum required knowledge in popular game engines (Unity, Unreal Engine).
+- The minimum required knowledge in popular game engines (Unity, Unreal Engine).
 
-2.6. Knowledge in the field of the gaming industry, modern trends and development vectors.
+- Knowledge in the field of the gaming industry, modern trends and development vectors.
 
 P.S. In the section "Tooling" you can see the knowledge in software.
 
 Foreign languages:
 
-1. English - university level.
+- English - university level.
 
 You can contact me in the social network or write to the mail:
 
@@ -74,6 +72,14 @@ My telegram account: @Hotline_Dolgopa
 By past it is possible to contact me by phone: +8-(962)-958-72-12 (Russian Federation)
 
 ---
+
+My profile is on LinkedIn:<br>
+
+1. <a href="https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/" target="_blank"> https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/ </a> 
+
+---
+
+
 
 Follow the links below to see my portfolio:<br>
 
