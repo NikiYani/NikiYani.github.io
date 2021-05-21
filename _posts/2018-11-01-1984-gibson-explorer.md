@@ -21,4 +21,6 @@ You can learn more about this work by clicking on the links below: <br/>
 	<a href="https://www.cgtrader.com/3d-models/electronics/audio/gibson-explorer-1984" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 	4.
 	<a href="https://sketchfab.com/3d-models/1984-gibson-explorer-more-beer-8e5de9cc65b5481eb2f8af2a15c4ed5c" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a><br/>	
+	5.
+	<a href="https://www.instagram.com/p/CCarW8Ghm37/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 </div>

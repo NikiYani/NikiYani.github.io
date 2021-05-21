@@ -23,4 +23,6 @@ You can learn more about this work by clicking on the links below: <br/>
 	<a href="https://sketchfab.com/3d-models/tattoo-machine-1cfa046072674ea49d0ff6c9dc459fe7" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a><br/>	
 	5.
 	<a href="https://assetstore.unity.com/packages/3d/environments/tattoo-machine-136059" target="_blank" style="font-weight: bold; color: #1CAAD9;">Unity asset store</a>
+	6.
+	<a href="https://www.instagram.com/p/CCar32GhgMv/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 </div>

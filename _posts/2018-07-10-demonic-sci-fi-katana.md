@@ -23,4 +23,6 @@ You can learn more about this work by clicking on the links below: <br/>
 	<a href="https://sketchfab.com/3d-models/demonic-sci-fi-katana-0381bc18ef0f45469e96dcf451733e23" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a><br/>	
 	5.
 	<a href="https://assetstore.unity.com/packages/3d/characters/humanoids/demonic-sci-fi-katana-pbr-130724" target="_blank" style="font-weight: bold; color: #1CAAD9;">Unity asset store</a>
+	6.
+	<a href="https://www.instagram.com/p/CCarHCBhk1y/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 </div>

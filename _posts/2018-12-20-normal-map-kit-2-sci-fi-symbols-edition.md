@@ -19,4 +19,6 @@ You can learn more about this work by clicking on the links below: <br/>
 	<a href="https://www.cgtrader.com/3d-models/textures/miscellaneous/normal-map-kit-2-sci-fi-symbols-edition" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 	3.
 	<a href="https://www.turbosquid.com/FullPreview/Index.cfm/ID/1361145" target="_blank" style="font-weight: bold; color: #1CAAD9;">TurboSquid</a><br/>
+	4.
+	<a href="https://www.instagram.com/p/CCarww9BYk5/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 </div>

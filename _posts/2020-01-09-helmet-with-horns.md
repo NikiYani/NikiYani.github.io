@@ -24,6 +24,8 @@ You can learn more about this work by clicking on the links below: <br/>
 	2.
 	<a href="https://www.cgtrader.com/3d-models/character/clothing/helmet-with-horns-8e2e6cbd-3fe8-4583-827b-175fa9b49ec4" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 
+	3.
+	<a href="https://www.instagram.com/p/CCaseB8hxW8/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 <!--	
 	4.
 	<a href="https://sketchfab.com/3d-models/sci-fi-knife-5e861cecc971491d8920a2b1fa09f896" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a><br/>	

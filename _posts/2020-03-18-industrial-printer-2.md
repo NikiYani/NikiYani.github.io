@@ -23,6 +23,9 @@ You can learn more about this work by clicking on the links below: <br/>
 
 	2.
 	<a href="https://www.cgtrader.com/gallery/project/industrial-printer-midpoly-one-block" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
+	
+	3.
+	<a href="https://www.instagram.com/p/CCasxsPBoVU/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 
 <!--	
 	4.

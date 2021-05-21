@@ -23,4 +23,6 @@ You can learn more about this work by clicking on the links below: <br/>
 	<a href="https://sketchfab.com/3d-models/runic-dagger-c081145da2d14e2397433f0ca45e2799?cursor=cD0yMDE4LTExLTIyKzE2JTNBMzUlM0ExNS40MTMxOTM%3D" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a><br/>	
 	5.
 	<a href="https://assetstore.unity.com/packages/3d/props/weapons/runic-dagger-133910" target="_blank" style="font-weight: bold; color: #1CAAD9;">Unity asset store</a>
+	6.
+	<a href="https://www.instagram.com/p/CCarckVhiHx/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 </div>

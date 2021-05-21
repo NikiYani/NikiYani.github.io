@@ -24,6 +24,8 @@ You can learn more about this work by clicking on the links below: <br/>
 	2.
 	<a href="https://www.cgtrader.com/3d-models/military/melee/medieval-sword-39f7f45e-3fd5-47cc-851d-a0fef3a420da" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
 
+	3.
+	<a href="https://www.instagram.com/p/CCatWQ1BN3O/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 <!--	
 	4.
 	<a href="https://sketchfab.com/3d-models/sci-fi-knife-5e861cecc971491d8920a2b1fa09f896" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a><br/>	

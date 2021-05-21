@@ -23,4 +23,6 @@ You can learn more about this work by clicking on the links below: <br/>
 	<a href="https://sketchfab.com/3d-models/sci-fi-grenade-6f7471bf9478451dbb6fad77b7f436e5" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a><br/>	
 	5.
 	<a href="https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi-grenade-pbr-131746" target="_blank" style="font-weight: bold; color: #1CAAD9;">Unity asset store</a>
+	6.
+	<a href="https://www.instagram.com/p/CCarSkGB5-R/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 </div>

@@ -18,6 +18,8 @@ You can learn more about this work by clicking on the links below: <br/>
 	1.
 	<a href="https://www.behance.net/gallery/119548515/Deconstructed-typography" target="_blank" style="font-weight: bold; color: #1CAAD9;">Behance</a><br/>	
 
+	2.
+	<a href="https://www.instagram.com/p/CO50h2Ej5T3/" target="_blank" style="font-weight: bold; color: #1CAAD9;">Instagram</a><br/>
 <!--
 	2.
 	<a href="https://www.cgtrader.com/3d-models/military/melee/push-daggers-cobra-vol-pack" target="_blank" style="font-weight: bold; color: #1CAAD9;">Cgtrader</a><br/>
