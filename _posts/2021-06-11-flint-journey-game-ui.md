@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Flint Journey (Game UI)
+title: Flint Journey
 tags: [2D-arts]
 image: Flint_Journey_(Game_UI).png
 ---
