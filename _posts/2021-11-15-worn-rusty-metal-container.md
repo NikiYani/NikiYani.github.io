@@ -7,7 +7,7 @@ image: worn_rusty_metal_container.png
 
 <!--more-->
 
-Worn rusty metal container. Thanks a lot to the author of the Kalyson channel for the tutorial video: 
+Worn rusty metal container. Thanks a lot to the author of the vfx-world channel for the tutorial video: 
 <a href="https://www.youtube.com/watch?v=X_EbiJ5_Cq0" target="_blank" style="font-weight: bold; color: #1CAAD9;">https://www.youtube.com/watch?v=X_EbiJ5_Cq0</a><br/>
 
 The challenge is aimed at studying:
@@ -21,7 +21,7 @@ Used programs:
 - Marmoset Toolbag 4
 - Illustrator
 
-Материал ржавого металлического контейнера. Спасибо большое автору канала Kalyson за обучающий видеоурок: 
+Материал ржавого металлического контейнера. Спасибо большое автору канала vfx-world за обучающий видеоурок: 
 <a href="https://www.youtube.com/watch?v=X_EbiJ5_Cq0" target="_blank" style="font-weight: bold; color: #1CAAD9;">https://www.youtube.com/watch?v=X_EbiJ5_Cq0</a><br/>
 
 Челлендж направлен на изучение:
