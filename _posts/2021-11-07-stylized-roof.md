@@ -7,7 +7,7 @@ image: stylized_roof.png
 
 <!--more-->
 
-Stylized snow rock. Thanks a lot to the author of the Kalyson channel for the tutorial video: 
+Stylized roof. Thanks a lot to the author of the Kalyson channel for the tutorial video: 
 <a href="https://www.youtube.com/watch?v=SOXS6RRewq4" target="_blank" style="font-weight: bold; color: #1CAAD9;">https://www.youtube.com/watch?v=SOXS6RRewq4</a><br/>
 
 The challenge is aimed at studying:
