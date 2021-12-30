@@ -3,6 +3,8 @@ layout: page
 title: Connect
 ---
 
+---
+
 You can contact me in the social network or write to the mail:
 
 <h1 style="text-align: center;">

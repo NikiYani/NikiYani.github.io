@@ -3,6 +3,8 @@ layout: page
 title: My Resume
 ---
 
+---
+
 <img  src="public/img/face.png" alt="Фото автора блога" style="width: 40%; height: auto; margin: 0 auto;"/>
 
 Name: Nikita Yanchenkov.

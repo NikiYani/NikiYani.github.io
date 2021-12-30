@@ -3,6 +3,8 @@ layout: page
 title: Tooling
 ---
 
+---
+
 <img  src="public/img/tooling.png" alt="Tooling" style="width: 25%; height: auto; margin: 0 auto;"/>
 
 Here you can see the stack of programs in which I work. 
