@@ -19,7 +19,7 @@ Age: 23 years.
 
 Location: Moscow / Russian Federation.
 
-Specialization: Programmer, 3D Artist (Hard-surface), gamedev.
+Specialization: Programmer С++, 3D Artist (Hard-surface), gamedev.
 
 Education: 
 
