@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-<img  src="public/img/face.png" alt="Фото автора блога" style="width: 45%; height: auto; margin: 0 auto;"/>
+<img  src="public/img/face.png" alt="Фото автора блога" style="width: 40%; height: auto; margin: 0 auto;"/>
 
 <h1>
 </h1>
@@ -73,22 +73,17 @@ By past it is possible to contact me by phone: +8-(962)-958-72-12 (Russian Feder
 
 ---
 
-My profile is on LinkedIn:<br>
+Primary links to my profiles:<br>
 
 1. <a href="https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/" target="_blank"> https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/ </a> 
 
----
+2. <a href="https://github.com/NikiYani" target="_blank"> https://github.com/NikiYani </a> 
 
-My profile is on GitHub:<br>
-
-1. <a href="https://github.com/NikiYani" target="_blank"> https://github.com/NikiYani </a> 
+3. <a href="https://hh.ru/resume/8f344702ff09024d210039ed1f554559456574" target="_blank"> https://hh.ru/resume/8f344702ff09024d210039ed1f554559456574 </a> 
 
 ---
 
-
-
-
-Follow the links below to see my portfolio:<br>
+Follow the links below to see my portfolio (3D and 2D):<br>
 
 1. <a href="https://www.artstation.com/nikiyani" target="_blank"> https://www.artstation.com/nikiyani </a> 
 

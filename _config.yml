@@ -22,7 +22,7 @@ pages_list:
   Sitemap: '/sitemap'   
   About me: '/about_me'
   Tooling: '/tooling'
-  Offtop: '/offtop'
+  Connect with me: '/connect_with_me'
 
 tag_page: '/sitemap'
 excerpt_separator: "<!--more-->"
