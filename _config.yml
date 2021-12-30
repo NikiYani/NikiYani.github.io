@@ -21,8 +21,8 @@ plugins:
 pages_list:    
   Sitemap: '/sitemap'   
   About me: '/about_me'
-  Tooling: '/tooling'
   Connect with me: '/connect_with_me'
+  Tooling: '/tooling'
 
 tag_page: '/sitemap'
 excerpt_separator: "<!--more-->"
