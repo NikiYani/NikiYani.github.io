@@ -79,6 +79,13 @@ My profile is on LinkedIn:<br>
 
 ---
 
+My profile is on GitHub:<br>
+
+1. <a href="https://github.com/NikiYani" target="_blank"> https://github.com/NikiYani </a> 
+
+---
+
+
 
 
 Follow the links below to see my portfolio:<br>
