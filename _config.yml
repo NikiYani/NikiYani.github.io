@@ -20,7 +20,7 @@ plugins:
 
 pages_list:    
   Sitemap: '/sitemap'   
-  About me: '/about_me'
+  My Resume: '/my_resume'
   Connect with me: '/connect_with_me'
   Tooling: '/tooling'
 
