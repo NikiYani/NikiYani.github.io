@@ -60,5 +60,9 @@ You can also visit my stores on these sites:<br>
 
 7. <a href="https://flippednormals.com/creator/nikiyani/" target="_blank"> https://flippednormals.com/creator/nikiyani/ </a> 
 
+8. <a href="https://opensea.io/NikiYani" target="_blank"> https://opensea.io/NikiYani </a> 
+
+
+
 
 
