@@ -62,6 +62,12 @@ You can also visit my stores on these sites:<br>
 
 8. <a href="https://opensea.io/NikiYani" target="_blank"> https://opensea.io/NikiYani </a> 
 
+---
+
+Offtop links:<br>
+
+1. <a href="https://leetcode.com/NikiYani/" target="_blank"> https://leetcode.com/NikiYani/ </a> 
+
 
 
 
