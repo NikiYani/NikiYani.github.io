@@ -18,6 +18,7 @@ Specialization: Programmer С++, 3D Artist (Hard-surface), gamedev.
 Programming skills:
 
 - C++ (11, 14, 17 standards)
+- Algorithms and data structures
 - Qt Framework (Qt Creator and basic knowledge of QML)
 - STL
 - SQL / Postgresql
