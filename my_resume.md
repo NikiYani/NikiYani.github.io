@@ -24,6 +24,8 @@ Programming skills:
 - SQL / Postgresql
 - Design patterns, SOLID, KISS, YAGNI and etc
 - GIT
+- Basic knowledge of Android development
+- Experience in non-commercial game development
 - Software lifecycle
 - TCP/IP
 - Shell scripts
