@@ -1,69 +1,4 @@
-I"�<p><img src="public/img/face.png" alt="Фото автора блога" style="width: 45%; height: auto; margin: 0 auto;" /></p>
-
-<h1>
-</h1>
-
-<h2 style="text-align: center;"> My resume </h2>
-
-<h1>
-</h1>
-
-<p>Name: Nikita Yanchenkov.</p>
-
-<p>Age: 23 years.</p>
-
-<p>Location: Moscow / Russian Federation.</p>
-
-<p>Specialization: Programmer, 3D Artist (Hard-surface), gamedev.</p>
-
-<p>Education:</p>
-
-<ul>
-  <li>Bachelor - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2016 - 2020].</li>
-  <li>Master - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2020 - 2022].</li>
-</ul>
-
-<p>Programming skills:</p>
-
-<ul>
-  <li>
-    <p>Creation of various kinds of applications with a graphical interface.</p>
-  </li>
-  <li>
-    <p>Database skills.</p>
-  </li>
-</ul>
-
-<p>3D graphics skills:</p>
-
-<ul>
-  <li>
-    <p>Hard-surface lowpoly modeling props, weapons.</p>
-  </li>
-  <li>
-    <p>Understanding standard game pipelines: High and lowpoly modeling, sculpting, baking and texturing.</p>
-  </li>
-  <li>
-    <p>Knowledge of general artistic techniques: color, forms, composition, light and shadow.</p>
-  </li>
-  <li>
-    <p>Rendering and postprocessing.</p>
-  </li>
-  <li>
-    <p>The minimum required knowledge in popular game engines (Unity, Unreal Engine).</p>
-  </li>
-  <li>
-    <p>Knowledge in the field of the gaming industry, modern trends and development vectors.</p>
-  </li>
-</ul>
-
-<p>P.S. In the section “Tooling” you can see the knowledge in software.</p>
-
-<p>Foreign languages:</p>
-
-<ul>
-  <li>English - university level.</li>
-</ul>
+I"�<hr />
 
 <p>You can contact me in the social network or write to the mail:</p>
 
@@ -86,15 +21,23 @@
 
 <hr />
 
-<p>My profile is on LinkedIn:<br /></p>
+<p>Primary links to my profiles:<br /></p>
 
 <ol>
-  <li><a href="https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/" target="_blank"> https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/ </a></li>
+  <li>
+    <p><a href="https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/" target="_blank"> https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/ </a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/NikiYani" target="_blank"> https://github.com/NikiYani </a></p>
+  </li>
+  <li>
+    <p><a href="https://hh.ru/resume/8f344702ff09024d210039ed1f554559456574" target="_blank"> https://hh.ru/resume/8f344702ff09024d210039ed1f554559456574 </a></p>
+  </li>
 </ol>
 
 <hr />
 
-<p>Follow the links below to see my portfolio:<br /></p>
+<p>Follow the links below to see my portfolio (3D and 2D):<br /></p>
 
 <ol>
   <li>
@@ -131,6 +74,17 @@
   <li>
     <p><a href="https://flippednormals.com/creator/nikiyani/" target="_blank"> https://flippednormals.com/creator/nikiyani/ </a></p>
   </li>
+  <li>
+    <p><a href="https://opensea.io/NikiYani" target="_blank"> https://opensea.io/NikiYani </a></p>
+  </li>
+</ol>
+
+<hr />
+
+<p>Offtop links:<br /></p>
+
+<ol>
+  <li><a href="https://leetcode.com/NikiYani/" target="_blank"> https://leetcode.com/NikiYani/ </a></li>
 </ol>
 
 :ET

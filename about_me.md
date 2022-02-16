@@ -9,7 +9,7 @@ title: My Resume
 
 Name: Nikita Yanchenkov.
 
-Age: 23 years.
+Age: 24 years.
 
 Location: Moscow / Russian Federation.
 
@@ -34,6 +34,7 @@ Programming skills:
 - Software lifecycle
 - TCP/IP
 - Shell scripts
+- UML
 - Trello (basic knowledge of Jira)
 
 3D graphics skills:
