@@ -23,15 +23,18 @@ Education:
 Programming skills:
 
 - C++ (11, 14, 17 standards)
-- Qt Framework
+- Algorithms and data structures
+- Qt Framework (Qt Creator and basic knowledge of QML)
 - STL
 - SQL / Postgresql
 - Design patterns, SOLID, KISS, YAGNI and etc
 - GIT
+- Basic knowledge of Android development
+- Experience in non-commercial game development
 - Software lifecycle
 - TCP/IP
 - Shell scripts
-- UML
+- Trello (basic knowledge of Jira)
 
 3D graphics skills:
 
