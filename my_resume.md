@@ -7,13 +7,13 @@ title: My resume
 
 <img  src="public/img/face.png" alt="Фото автора блога" style="width: 40%; height: auto; margin: 0 auto;"/>
 
+Basic information:
+
 Name: Nikita Yanchenkov.
-
 Age: 24 years.
-
-Location: Moscow / Russian Federation.
-
-Specialization: Programmer С++, offtop: 3D/2D Artist, gamedev.
+Location: Moscow/Russian Federation.
+Specialization: Programmer С++ (Desktop applications, embedded systems, high-load systems)
+Offtop: 3D/2D Artist, gamedev.
 
 Programming skills:
 
