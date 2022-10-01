@@ -5,14 +5,14 @@ title: My resume
 
 ---
 
-<img  src="public/img/face.png" alt="Фото автора блога" style="width: 40%; height: auto; margin: 0 auto;"/>
+<img  src="public/img/face.png" alt="Фото автора сайта" style="width: 40%; height: auto; margin: 0 auto;"/>
 
 Basic information:
 
 - Name: Nikita Yanchenkov.
 - Age: 24 years.
 - Location: Moscow/Russian Federation.
-- Specialization: Programmer С++ (Desktop applications, embedded systems, high-load systems)
+- Specialization: Programmer С++ (Desktop applications, embedded systems, high-load systems).
 - Offtop: 3D/2D Artist, gamedev.
 
 Programming skills:
@@ -47,7 +47,7 @@ Education:
 
 - Bachelor - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2016 - 2020].
 - Master - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2020 - 2022].
-- Ph.D. - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2022 - 2025].
+- Ph.D. - MSTU "STANKIN" with a degree in "System analysis, management and information processing" [2022 - 2025].
 
 Foreign languages:
 
