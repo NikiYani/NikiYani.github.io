@@ -7,9 +7,7 @@ title: Tooling
 
 <img  src="public/img/tooling.png" alt="Tooling" style="width: 25%; height: auto; margin: 0 auto;"/>
 
-Here you can see the stack of programs in which I work. 
-
-(logos contain links)
+Here you can see the stack of programs in which I work (logos contain links). 
 
 ---
 
@@ -25,13 +23,81 @@ Here you can see the stack of programs in which I work.
 </tr>
 </table>
 
+#### Text editors:
+
+<table>
+<tr>
+
+<td>
+<a href="https://code.visualstudio.com/" target="_blank"> <img  src="public/img/VSCode.png" alt="Visual Studio Code" style="width: 70%; height: auto; padding: 10px; border-radius: 30px; margin: 0 auto;"/> </a>
+</td>
+
+<td>
+<a href="https://www.sublimetext.com/" target="_blank"> <img  src="public/img/subline_text_3.png" alt="Subline Text 3" style="width: 40%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+<td>
+<a href="https://notepad-plus-plus.org/" target="_blank"> <img  src="public/img/notepad.png" alt="Notepad++" style="width: 40%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+</tr>
+</table>
+
 #### DBMS:
 
 <table>
 <tr>
 
 <td>
-<a href="https://www.postgresql.org/" target="_blank"> <img  src="public/img/postgreSQL.png" alt="Qt" style="width: 15%; height: auto; margin: 0 auto;"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img  src="public/img/postgreSQL.png" alt="PostgreSQL" style="width: 30%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+<td>
+<a href="https://www.sqlite.org/index.html" target="_blank"> <img  src="public/img/SQLite.png" alt="SQLite" style="width: 60%; height: auto; border-radius: 10px; margin: 0 auto;"/> </a>
+</td>
+
+</tr>
+</table>
+
+#### Operating systems and virtualization software:
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.linux.org/" target="_blank"> <img  src="public/img/Linux.png" alt="Linux" style="width: 50%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+<td>
+<a href="https://learn.microsoft.com/en-us/windows/wsl/about" target="_blank"> <img  src="public/img/WSL.png" alt="WSL" style="width: 50%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+</tr>
+</table>
+
+#### VCS:
+
+<table>
+<tr>
+
+<td>
+<a href="https://git-scm.com/" target="_blank"> <img  src="public/img/Git.png" alt="Git" style="width: 25%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+</tr>
+</table>
+
+#### Game engines:
+
+<table>
+<tr>
+
+<td>
+<a href="https://www.unrealengine.com/en-US/feed?sessionInvalidated=true" target="_blank"> <img  src="public/img/unreal_engine.png" alt="Unreal Engine" style="width: 40%; height: auto; margin: 0 auto;"/> </a>
+</td>
+
+<td>
+<a href="https://unity.com/" target="_blank"> <img  src="public/img/unity.png" alt="Unity" style="width: 40%; height: auto; margin: 0 auto;"/> </a> 
 </td>
 
 </tr>
@@ -133,38 +199,6 @@ Here you can see the stack of programs in which I work.
 
 <td>
 <a href="https://www.adobe.com/ru/products/aftereffects.html" target="_blank"> <img  src="public/img/after_effects.png" alt="After_effects" style="width: 25%; height: auto; margin: 0 auto;"/> </a>
-</td>
-
-</tr>
-</table>
-
-#### Text editors:
-
-<table>
-<tr>
-
-<td>
-<a href="https://www.sublimetext.com/" target="_blank"> <img  src="public/img/subline_text_3.png" alt="Subline Text 3" style="width: 40%; height: auto; margin: 0 auto;"/> </a>
-</td>
-
-<td>
-<a href="https://notepad-plus-plus.org/" target="_blank"> <img  src="public/img/notepad.png" alt="Notepad++" style="width: 40%; height: auto; margin: 0 auto;"/> </a>
-</td>
-
-</tr>
-</table>
-
-#### Game engines:
-
-<table>
-<tr>
-
-<td>
-<a href="https://www.unrealengine.com/en-US/feed?sessionInvalidated=true" target="_blank"> <img  src="public/img/unreal_engine.png" alt="Unreal Engine" style="width: 40%; height: auto; margin: 0 auto;"/> </a>
-</td>
-
-<td>
-<a href="https://unity.com/" target="_blank"> <img  src="public/img/unity.png" alt="Unity" style="width: 40%; height: auto; margin: 0 auto;"/> </a> 
 </td>
 
 </tr>
