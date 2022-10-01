@@ -9,29 +9,30 @@ title: My resume
 
 Name: Nikita Yanchenkov.
 
-Age: 23 years.
+Age: 24 years.
 
 Location: Moscow / Russian Federation.
 
-Specialization: Programmer С++, 3D Artist (Hard-surface), gamedev.
+Specialization: Programmer С++, offtop: 3D/2D Artist, gamedev.
 
 Programming skills:
 
-- C++ (11, 14, 17 standards)
-- Algorithms and data structures
+- C++ (11, 14, 17 standards), STL, Boost
 - Qt Framework (Qt Creator and basic knowledge of QML)
-- STL
-- SQL / Postgresql
-- Design patterns, SOLID, KISS, YAGNI and etc
-- GIT
+- Algorithms and data structures
+- SQL / Postgresql / SQLite
+- Linux / WSL
+- GIT / Gitflow
+- Design patterns, SOLID, KISS, YAGNI, Software lifecycle and etc
+- TCP/IP
+- Bash
+- UML
+- Jira / Confluence
 - Basic knowledge of Android development
 - Experience in non-commercial game development
-- Software lifecycle
-- TCP/IP
-- Shell scripts
-- UML
+- Basic knowledge of working with game engines (Godot, Unreal Engine 4 и Unity)
 
-3D graphics skills:
+3D/2D graphics skills:
 
 - Hard-surface lowpoly modeling props, weapons.
 - Understanding standard game pipelines: High and lowpoly modeling, sculpting, baking and texturing. 
@@ -46,6 +47,7 @@ Education:
 
 - Bachelor - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2016 - 2020].
 - Master - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2020 - 2022].
+- Ph.D. - MSTU "STANKIN" with a degree in "Computer Science and Computer Engineering" [2022 - 2025].
 
 Foreign languages:
 
