@@ -1,14 +1,16 @@
-I"�<hr />
+I":	<hr />
 
-<p><img src="public/img/face.png" alt="Фото автора блога" style="width: 40%; height: auto; margin: 0 auto;" /></p>
+<p><img src="public/img/face.png" alt="Фото автора сайта" style="width: 40%; height: auto; margin: 0 auto;" /></p>
 
 <p>Basic information:</p>
 
-<p>Name: Nikita Yanchenkov.
-Age: 24 years.
-Location: Moscow/Russian Federation.
-Specialization: Programmer С++ (Desktop applications, embedded systems, high-load systems)
-Offtop: 3D/2D Artist, gamedev.</p>
+<ul>
+  <li>Name: Nikita Yanchenkov.</li>
+  <li>Age: 24 years.</li>
+  <li>Location: Moscow/Russian Federation.</li>
+  <li>Specialization: Programmer С++ (Desktop applications, embedded systems, high-load systems).</li>
+  <li>Offtop: 3D/2D Artist, gamedev.</li>
+</ul>
 
 <p>Programming skills:</p>
 
@@ -47,7 +49,7 @@ Offtop: 3D/2D Artist, gamedev.</p>
 <ul>
   <li>Bachelor - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2016 - 2020].</li>
   <li>Master - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2020 - 2022].</li>
-  <li>Ph.D. - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2022 - 2025].</li>
+  <li>Ph.D. - MSTU “STANKIN” with a degree in “System analysis, management and information processing” [2022 - 2025].</li>
 </ul>
 
 <p>Foreign languages:</p>
