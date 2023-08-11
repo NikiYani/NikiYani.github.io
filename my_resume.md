@@ -9,11 +9,13 @@ title: My resume
 
 Basic information:
 
-- Name: Nikita Yanchenkov.
-- Age: 25 years.
-- Location: Moscow/Russian Federation.
-- Specialization: Programmer С++ (Desktop applications, embedded systems, high-load systems).
-- Offtop: 3D/2D Artist, gamedev.
+- Name: Nikita Yanchenkov
+- Birthday: 03/1998
+- Backend Developer C++ (Desktop applications, embedded systems, high-load systems)
+- Teacher at Netology courses
+- Offtop: 3D/2D Artist, gamedev
+- Information technology, computing systems, system analysis
+- Location: Moscow/Russian Federation
 
 Programming skills:
 
