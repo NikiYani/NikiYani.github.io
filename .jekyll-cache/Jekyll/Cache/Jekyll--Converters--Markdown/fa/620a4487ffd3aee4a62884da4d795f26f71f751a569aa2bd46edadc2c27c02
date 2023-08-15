@@ -1,0 +1,65 @@
+I"�	<hr />
+
+<p><img src="public/img/face.png" alt="Фото автора сайта" style="width: 40%; height: auto; margin: 0 auto;" /></p>
+
+<p>Basic information:</p>
+
+<ul>
+  <li>Name: Nikita Yanchenkov</li>
+  <li>Birthday: 03/1998</li>
+  <li>Backend Developer C++ (Desktop applications, embedded systems, high-load systems)</li>
+  <li>Teacher at Netology courses</li>
+  <li>Offtop: 3D/2D Artist, gamedev</li>
+  <li>Information technology, computing systems, system analysis</li>
+  <li>Location: Moscow/Russian Federation</li>
+</ul>
+
+<p>Programming skills:</p>
+
+<ul>
+  <li>C++ (11, 14, 17 standards), STL, Boost</li>
+  <li>Qt Framework (Qt Creator and basic knowledge of QML)</li>
+  <li>Algorithms and data structures</li>
+  <li>SQL / Postgresql / SQLite</li>
+  <li>Linux / WSL</li>
+  <li>GIT / Gitflow</li>
+  <li>Design patterns, SOLID, KISS, YAGNI, Software lifecycle and etc</li>
+  <li>TCP/IP</li>
+  <li>Bash</li>
+  <li>UML</li>
+  <li>Jira / Confluence</li>
+  <li>Basic knowledge of Android development</li>
+  <li>Experience in non-commercial game development</li>
+  <li>Basic knowledge of working with game engines (Godot, Unreal Engine 4 и Unity)</li>
+</ul>
+
+<p>3D/2D graphics skills:</p>
+
+<ul>
+  <li>Hard-surface lowpoly modeling props, weapons.</li>
+  <li>Understanding standard game pipelines: High and lowpoly modeling, sculpting, baking and texturing.</li>
+  <li>Knowledge of general artistic techniques: color, forms, composition, light and shadow.</li>
+  <li>Rendering and postprocessing.</li>
+  <li>The minimum required knowledge in popular game engines (Unity, Unreal Engine).</li>
+  <li>Knowledge in the field of the gaming industry, modern trends and development vectors.</li>
+</ul>
+
+<p>P.S. In the section <a href="https://nikiyani.github.io/tooling" target="_blank"> Tooling </a> you can see the knowledge in software.</p>
+
+<p>Education:</p>
+
+<ul>
+  <li>Bachelor - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2016 - 2020].</li>
+  <li>Master - MSTU “STANKIN” with a degree in “Computer Science and Computer Engineering” [2020 - 2022].</li>
+  <li>Ph.D. - MSTU “STANKIN” with a degree in “System analysis, management and information processing” [2022 - 2025].</li>
+</ul>
+
+<p>Foreign languages:</p>
+
+<ul>
+  <li>English - Intermediate.</li>
+</ul>
+
+<p>If you want to contact me go to the section <a href="https://nikiyani.github.io/connect_with_me" target="_blank"> Connect with me </a></p>
+
+:ET

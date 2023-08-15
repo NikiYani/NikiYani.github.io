@@ -28,7 +28,7 @@ By past it is possible to contact me by phone: +8-(962)-958-72-12 (Russian Feder
 
 Primary links to my profiles:<br>
 
-1. <a href="https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/" target="_blank"> https://www.linkedin.com/in/nikita-yanchenkov-38ba26173/ </a> 
+1. <a href="https://www.linkedin.com/in/nikiyani-hotline-dolgopa1337/" target="_blank"> https://www.linkedin.com/in/nikiyani-hotline-dolgopa1337/ </a> 
 
 2. <a href="https://github.com/NikiYani" target="_blank"> https://github.com/NikiYani </a> 
 
