@@ -22,17 +22,19 @@ My discord account: NikiYani#7459
 
 My telegram account: @Hotline_Dolgopa
 
-By past it is possible to contact me by phone: +8-(962)-958-72-12 (Russian Federation)
+By past it is possible to contact me by phone: +7(962)958-72-12 (Russian Federation)
 
 ---
 
 Primary links to my profiles:<br>
 
-1. <a href="https://www.linkedin.com/in/nikiyani-hotline-dolgopa1337/" target="_blank"> https://www.linkedin.com/in/nikiyani-hotline-dolgopa1337/ </a> 
+1. <a href="https://career.habr.com/nikiyani" target="_blank"> Habr career </a> 
 
-2. <a href="https://github.com/NikiYani" target="_blank"> https://github.com/NikiYani </a> 
+2. <a href="https://github.com/NikiYani" target="_blank"> Github </a> 
 
-3. <a href="https://hh.ru/resume/8f344702ff09024d210039ed1f554559456574" target="_blank"> https://hh.ru/resume/8f344702ff09024d210039ed1f554559456574 </a> 
+3. <a href="https://hh.ru/resume/8f344702ff09024d210039ed1f554559456574" target="_blank"> HH </a> 
+
+4. <a href="https://www.linkedin.com/in/nikiyani-hotline-dolgopa1337/" target="_blank"> Linkedin </a> 
 
 ---
 
