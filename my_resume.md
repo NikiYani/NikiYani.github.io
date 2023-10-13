@@ -5,7 +5,7 @@ title: My resume
 
 ---
 
-<img  src="public/img/face.png" alt="Фото автора сайта" style="width: 40%; height: auto; margin: 0 auto;"/>
+<img  src="public/img/face2.png" alt="Фото автора сайта" style="width: 40%; height: auto; margin: 0 auto;"/>
 
 Basic information:
 

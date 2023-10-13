@@ -1,15 +1,17 @@
-I":	<hr />
+I"�	<hr />
 
-<p><img src="public/img/face.png" alt="Фото автора сайта" style="width: 40%; height: auto; margin: 0 auto;" /></p>
+<p><img src="public/img/face2.png" alt="Фото автора сайта" style="width: 40%; height: auto; margin: 0 auto;" /></p>
 
 <p>Basic information:</p>
 
 <ul>
-  <li>Name: Nikita Yanchenkov.</li>
-  <li>Age: 25 years.</li>
-  <li>Location: Moscow/Russian Federation.</li>
-  <li>Specialization: Programmer С++ (Desktop applications, embedded systems, high-load systems).</li>
-  <li>Offtop: 3D/2D Artist, gamedev.</li>
+  <li>Name: Nikita Yanchenkov</li>
+  <li>Birthday: 03/1998</li>
+  <li>Backend Developer C++ (Desktop applications, embedded systems, high-load systems)</li>
+  <li>Teacher at Netology courses</li>
+  <li>Offtop: 3D/2D Artist, gamedev</li>
+  <li>Information technology, computing systems, system analysis</li>
+  <li>Location: Moscow/Russian Federation</li>
 </ul>
 
 <p>Programming skills:</p>
